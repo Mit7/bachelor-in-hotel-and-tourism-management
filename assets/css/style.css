@@ -988,11 +988,16 @@ footer {
 }
 
 #exitPopup img {
-    width: 200px;
-    top:-120px;
+    width: 150px;
+    top:-170px;
     right: 50px;
     position: absolute;
     animation: floatingWiggle 3.5s ease-in-out infinite;
+}
+
+#exitPopup .exitpop-left {
+    right: auto;
+    left: 50px; /* Position 50px from the left edge of the modal */
 }
 
 @keyframes floatingWiggle {
