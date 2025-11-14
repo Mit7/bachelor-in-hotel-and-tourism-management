@@ -998,6 +998,7 @@ footer {
 #exitPopup .exitpop-left {
     right: auto;
     left: 50px; /* Position 50px from the left edge of the modal */
+    
 }
 
 @keyframes floatingWiggle {
