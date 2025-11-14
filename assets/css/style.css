@@ -988,8 +988,8 @@ footer {
 }
 
 #exitPopup img {
-    width: 150px;
-    top:-170px;
+    width: 120px;
+    top:-120px;
     right: 50px;
     position: absolute;
     animation: floatingWiggle 3.5s ease-in-out infinite;
